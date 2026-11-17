@@ -121,7 +121,7 @@ int main() {
         object->calcVolume();
         std::cout << object->getVolume() << std::endl;
     } else if (choice == 4){
-        std::cout << "You think you're real funny don't you?" << std::endl;
+        std::cout << "You think you're real funny, don't you?" << std::endl;
         std::cout << "Not a valid choice.";
     } else {
         std::cout << "Not a valid choice.";
